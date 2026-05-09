@@ -77,7 +77,7 @@ Instead of solving full dexterous manipulation immediately, the policy learns pr
 
 ---
 
-# Stage 1 — Reach and Touch
+# Stage 1: Reach and Touch
 
 ## Goal
 
@@ -97,7 +97,7 @@ Teach the hand to move toward the cube and establish first contact.
 
 ---
 
-# Stage 2 — Thumb Stabilization
+# Stage 2: Thumb Stabilization
 
 ## Goal
 
@@ -116,7 +116,7 @@ Encourage meaningful thumb interaction with the cube.
 
 ---
 
-# Stage 3 — Pinch Grasp Formation
+# Stage 3: Pinch Grasp Formation
 
 ## Goal
 
@@ -136,7 +136,7 @@ Learn simultaneous thumb-index pinch grasping.
 
 ---
 
-# Stage 4 — Cube Lifting
+# Stage 4: Cube Lifting
 
 ## Goal
 
@@ -156,7 +156,7 @@ Lift the cube while preserving grasp stability.
 
 ---
 
-# Stage 5 — Orientation-Aware Manipulation
+# Stage 5: Orientation-Aware Manipulation
 
 ## Goal
 
