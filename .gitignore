@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+venv/
+
+# Logs / training outputs
+logs/
+runs/
+
+# Generated media
+*.mp4
+*.avi
+*.mov
+
+# Archives
+*.zip
+*.tar.gz
+
+# Checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Local archives / backups
+_archive_unused/
+allegro_v4_block_ppo_submission/
+submission_package/
+backups/
+backups_keep/
+final_results/
+
+# Hash files
+submission_sha256.txt
